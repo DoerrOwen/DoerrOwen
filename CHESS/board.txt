@@ -1,0 +1,11 @@
+RoBF KnBF BiBF QuBF KiBF BiBF KnBF RoBF 
+PaBF PaBF PaBF PaBF PaBF PaBF PaBF PaBF 
+---- ---- ---- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- 
+---- ---- ---- ---- ---- ---- ---- ---- 
+PaWF PaWF PaWF PaWF PaWF PaWF PaWF PaWF 
+RoWF KnWF BiWF QuWF KiWF BiWF KnWF RoWF 
+true
+0
+0
