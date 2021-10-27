@@ -1,4 +1,4 @@
-Official GitHub page of Owen Doerr ༼ʘ̚لʘ̚༽
+Official GitHub page of Owen Doerr 
 
 Check out some of my projects
 
